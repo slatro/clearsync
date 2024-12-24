@@ -134,7 +134,7 @@ The first network for YELLOW ERC20 and ClearSync system will be on Ethereum main
 
 ### contracts/YellowToken.sol
 
-This smart contract is an ERC20 used by both YELLOW and DUCKIES tokens. The YELLOW token is collateral to open a state channel with another network entity. Additionally, it is used to pay the settlement fees on the network.
+This smart contract is an ERC20 used by both YELLOW and DUCKIES tokens. The YELLOW token is collateral to open a state channel with another network entity. Additionally, it is used to pay the settlement fees on the network...
 
 ### contracts/clearing
 
